@@ -1,0 +1,33 @@
+{
+  "name": "Millie Bot MD Simple Bot",
+  "version": "2.0.0",
+  "description": "Bot Wea mudah Di Gunakan",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index"
+  },
+  "author": "Ruli Henderson",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:@ruhend/baileys@6.0.0",
+    "@ruhend/tiktok": "^2.0.0",
+    "@ruhend/ytmp3": "^1.0.0",
+    "@ruhend/ytmp4": "^1.0.0",
+    "chalk": "^4.1.2",
+    "cfonts":"latest",
+    "cheerio": "^1.0.0-rc.10",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "readline":"latest",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "human-readable": "^0.2.1",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "2.6.1",
+    "node-webpmux": "^3.1.1",
+    "path": "^0.12.7",
+    "performance-now": "2.1.0",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
